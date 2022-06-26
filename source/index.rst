@@ -10,9 +10,12 @@ Applications in general, and in a wider perspective, software development requir
 These are some simplified and generalised notes on how to identify resources that need protection (assets), document security assumptions, identify attack surface and input and output attack vectors, and how to combine these vectors into attack trees (scenarios) with suggestions on possibly useful mitigations.
 
 .. toctree::
-   :glob:
    :maxdepth: 1
    :includehidden:
    :caption: Notes
 
-   docs/*
+   docs/Identify-security-objectives.md
+   docs/Application-overview.md
+   docs/Decompose-application.md
+   docs/Identify-threats.md
+   docs/Identify-mitigations.md
