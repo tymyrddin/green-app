@@ -19,3 +19,8 @@ These are some simplified and generalised notes on how to identify resources tha
    docs/Decompose-application.md
    docs/Identify-threats.md
    docs/Identify-mitigations.md
+
+.. toctree::
+   :caption: All threat models
+
+   Overview <https://tymyrddin.github.io/threat-models/>
