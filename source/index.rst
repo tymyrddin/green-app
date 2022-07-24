@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Application threat model
+Making an application threat model
 ====================================================
 Applications in general, and in a wider perspective, software development requires Software-based threat modelling ("//a structured approach that enables you to identify, quantify, and address the security risks associated with an application//").
 
