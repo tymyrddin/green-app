@@ -25,4 +25,4 @@ These are some simplified and generalised notes on how to identify resources tha
 
    Overview threat models <https://tymyrddin.github.io/threat-models/>
    Attack trees <https://tymyrddin.github.io/attack-trees/>
-   Applications and CI/CD <https://wyrd.netlify.app/>
+   Building application and CI/CD targets <https://wyrd.netlify.app/>
