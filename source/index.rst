@@ -14,15 +14,15 @@ These are some simplified and generalised notes on how to identify resources tha
    :includehidden:
    :caption: Notes
 
-   docs/Identify-security-objectives.md
-   docs/Application-overview.md
-   docs/Decompose-application.md
-   docs/Identify-threats.md
-   docs/Identify-mitigations.md
+   docs/objectives.md
+   docs/overview.md
+   docs/decompose.md
+   docs/threats.md
+   docs/mitigations.md
 
 .. toctree::
    :caption: Links
 
    Overview threat models <https://tymyrddin.github.io/threat-models/>
    Attack trees <https://tymyrddin.github.io/attack-trees/>
-   Building application and CI/CD targets <https://wyrd.netlify.app/>
+   Building application and CI/CD targets <https://wyrd.tymyrddin.dev/>
