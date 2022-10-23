@@ -1,8 +1,3 @@
-.. Application threat model documentation master file, created by
-   sphinx-quickstart on Sun Jun 26 19:02:21 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Making an application threat model
 ====================================================
 Applications in general, and in a wider perspective, software development requires Software-based threat modelling ("//a structured approach that enables you to identify, quantify, and address the security risks associated with an application//").
