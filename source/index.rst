@@ -18,6 +18,5 @@ These are some simplified and generalised notes on how to identify resources tha
 .. toctree::
    :caption: Links
 
-   Overview threat models <https://tymyrddin.github.io/threat-models/>
-   Attack trees <https://tymyrddin.github.io/attack-trees/>
+   Green Team <https://tymyrddin.github.io/green/>
    Building application and CI/CD targets <https://wyrd.tymyrddin.dev/>
