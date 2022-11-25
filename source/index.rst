@@ -20,3 +20,4 @@ These are some simplified and generalised notes on how to identify resources tha
 
    Green Team <https://tymyrddin.github.io/green/>
    Web application hacking <https://tymyrddin.github.io/red-app/>
+   Building application and CI/CD targets <https://wyrd.tymyrddin.dev/>
