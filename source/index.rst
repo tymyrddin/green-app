@@ -18,6 +18,6 @@ These are some simplified and generalised notes on how to identify resources tha
 .. toctree::
    :caption: Links
 
-   Green Team <https://tymyrddin.github.io/green/>
-   Web application hacking <https://tymyrddin.github.io/red-app/>
+   Green Team <https://green.tymyrddin.dev/>
+   Web application hacking <https://red.tymyrddin.dev/projects/app/en/latest/>
    Building application and CI/CD targets <https://wyrd.tymyrddin.dev/>
