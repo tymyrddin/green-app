@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Application threat model'
+project = 'Application threat modelling'
 copyright = '2022, TyMyrddin'
 author = 'TyMyrddin'
 
@@ -58,6 +58,7 @@ html_theme_options = {
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': True,
+    'logo_only': True,
     # Toc options
     'collapse_navigation': True,
     'sticky_navigation': False,
@@ -66,7 +67,7 @@ html_theme_options = {
     'titles_only': False
 }
 
-html_title = "Application threat model"
+html_title = "Application threat modelling"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
 
